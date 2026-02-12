@@ -3,6 +3,7 @@ uvicorn
 pydantic
 python-jose[cryptography]
 passlib[bcrypt]
+bcrypt<5
 python-multipart
 websockets
 email-validator
