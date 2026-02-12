@@ -1,0 +1,34 @@
+[
+    {
+        "employee_id": "e630",
+        "punch_in": "2026-02-05 00:22:17.030305",
+        "punch_out": null,
+        "status": "present",
+        "notes": "",
+        "id": "b201bc94-3363-45f5-8bed-da863a8e789a"
+    },
+    {
+        "employee_id": "a36758b9-b677-436b-bdf2-23bbcc67a7b7",
+        "punch_in": "2026-02-06 00:14:20.712411",
+        "punch_out": null,
+        "status": "present",
+        "notes": "",
+        "id": "c04423da-a1f0-4665-bf60-10c84cd18113"
+    },
+    {
+        "employee_id": "2ed7e858-6883-435d-96db-e93f073b013f",
+        "punch_in": "2026-02-11 12:49:33.534614",
+        "punch_out": "2026-02-11 13:12:32.685879",
+        "status": "present",
+        "notes": "",
+        "id": "944a4ae0-66b4-465f-a048-2bddc68b8144"
+    },
+    {
+        "employee_id": "2ed7e858-6883-435d-96db-e93f073b013f",
+        "punch_in": "2026-02-12 10:52:08.223093",
+        "punch_out": "2026-02-12 11:02:20.872797",
+        "status": "present",
+        "notes": "",
+        "id": "df96b81b-6a63-4fb7-beb9-658a836de080"
+    }
+]

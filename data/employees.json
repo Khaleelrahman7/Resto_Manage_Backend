@@ -1,0 +1,79 @@
+[
+    {
+        "first_name": "Test",
+        "last_name": "Employee",
+        "email": "test1770229274895@example.com",
+        "phone": "1234567890",
+        "position": "Waiter",
+        "department": "Service",
+        "salary": 3500.0,
+        "id": "32f0a09e-71d3-4609-8c86-924413eeeafc",
+        "user_id": "6e885562-5463-4637-a7e0-9617cdcaa93e"
+    },
+    {
+        "first_name": "Emp",
+        "last_name": "User",
+        "email": "emp1770229877388@example.com",
+        "phone": "1112223333",
+        "position": "Staff",
+        "department": "Service",
+        "salary": 2500.0,
+        "id": "d9ea8e6e-73cf-4e88-8203-fb0ff2d33892",
+        "user_id": "80fab38d-0314-462d-a6c0-b4a53c5a6ee4"
+    },
+    {
+        "first_name": "Emp",
+        "last_name": "User",
+        "email": "emp1770229960718@example.com",
+        "phone": "1112223333",
+        "position": "Staff",
+        "department": "Service",
+        "salary": 2500.0,
+        "id": "c4022adb-c23e-4466-9c2f-31f8317c966d",
+        "user_id": "c640bac1-a2ae-4b91-8464-2b8f7e4bd151"
+    },
+    {
+        "first_name": "sunil",
+        "last_name": "grover",
+        "email": "sunil@gmail.com",
+        "phone": "9876543211",
+        "position": "chef",
+        "department": "Kitchen",
+        "salary": 500000.0,
+        "id": "8a1095a7-b003-4556-ae9c-bc81537b8524",
+        "user_id": "01232e24-b70a-4cba-8835-c074dde266f2"
+    },
+    {
+        "first_name": "Emp",
+        "last_name": "Portal",
+        "email": "emp1770316468311@example.com",
+        "phone": "1112223333",
+        "position": "Staff",
+        "department": "Service",
+        "salary": 2500.0,
+        "id": "37aba7eb-08ad-44d3-af06-a9e175933327",
+        "user_id": "f9f5893b-0991-4d54-8106-354596c556bc"
+    },
+    {
+        "first_name": "Emp",
+        "last_name": "Portal",
+        "email": "emp1770317059398@example.com",
+        "phone": "1112223333",
+        "position": "Staff",
+        "department": "Service",
+        "salary": 2500.0,
+        "id": "a36758b9-b677-436b-bdf2-23bbcc67a7b7",
+        "user_id": "12acec11-eea5-4bf0-af4c-2d449ffe2810"
+    },
+    {
+        "first_name": "venkatesh",
+        "last_name": "bhatt",
+        "email": "venky@gmail.com",
+        "phone": "9876508345",
+        "position": "head chef",
+        "department": "Kitchen",
+        "salary": 600000.0,
+        "id": "2ed7e858-6883-435d-96db-e93f073b013f",
+        "user_id": "84cf5ddf-e97a-4569-83aa-0f9b419a58ec"
+    }
+]

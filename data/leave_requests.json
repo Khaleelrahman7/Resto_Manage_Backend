@@ -1,0 +1,19 @@
+[
+    {
+        "employee_id": "a36758b9-b677-436b-bdf2-23bbcc67a7b7",
+        "user_id": "12acec11-eea5-4bf0-af4c-2d449ffe2810",
+        "leave_type": "casual",
+        "start_date": "2026-02-05",
+        "end_date": "2026-02-05",
+        "total_days": 1.0,
+        "status": "pending",
+        "reason": "test",
+        "attachment_name": null,
+        "attachment_base64": null,
+        "applied_at": "2026-02-06T00:14:20.777519",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "review_notes": null,
+        "id": "8c983957-8bdb-47d0-8732-554b865a03d4"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "email": "admin@restaurant.com",
+        "password": "$2b$12$LDd5xMBFZtswuhBuz5dDEOg5ncgac4IJRCMoTaMaNq3VhNSG2m75C",
+        "role": "super_admin",
+        "is_active": true,
+        "created_at": "2026-02-04T23:30:23.897453",
+        "id": "65b101c6-9c4c-47ae-95cc-cc1359015264"
+    },
+    {
+        "email": "emp1770229877388@example.com",
+        "password": "$2b$12$KLHX55GZFX2flFPcInFLSuhCknXDMr9WCBizcKq0Pm2bzLE0m2AN.",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-05T00:01:18.401877",
+        "id": "80fab38d-0314-462d-a6c0-b4a53c5a6ee4"
+    },
+    {
+        "email": "emp1770229960718@example.com",
+        "password": "$2b$12$qi.xuwsT6Vgj5q/M0SxzSO1E3CXVVeSxfa3FpQr0x8Dc3q.3U9s7W",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-05T00:02:41.263967",
+        "id": "c640bac1-a2ae-4b91-8464-2b8f7e4bd151"
+    },
+    {
+        "email": "test1770229274895@example.com",
+        "password": "$2b$12$/CT2j2ikeD/fPzlpnwfDUeIMI8/Vyx5zUHopnltMzOZfURL/krdqW",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-05T00:19:13.147584",
+        "id": "6e885562-5463-4637-a7e0-9617cdcaa93e"
+    },
+    {
+        "email": "sunil@gmail.com",
+        "password": "$2b$12$kizz5Az8PcTtPQzHp.l83.8V16kBR9pJirRUugezXcirsJ2djl/Ca",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-05T23:16:16.821356",
+        "id": "01232e24-b70a-4cba-8835-c074dde266f2"
+    },
+    {
+        "email": "emp1770316468311@example.com",
+        "password": "$2b$12$UVZJxtUOy1BK7Kx3yla0eOzzyKjLYB3HVcJsOLbOkJx.RMhvtGH0K",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-06T00:04:28.678621",
+        "id": "f9f5893b-0991-4d54-8106-354596c556bc"
+    },
+    {
+        "email": "emp1770317059398@example.com",
+        "password": "$2b$12$GnZvfnLZay7MqU1woiZao.4CvqTjkjT54mvZGlFWlsLl8o1S6Lxx2",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-06T00:14:20.091037",
+        "id": "12acec11-eea5-4bf0-af4c-2d449ffe2810"
+    },
+    {
+        "email": "venky@gmail.com",
+        "password": "$2b$12$xg5/y7ZoOczve2ZpotktAuGFZ5DtbsoVIkkt0tR2PFlouQDoubZle",
+        "role": "staff",
+        "is_active": true,
+        "created_at": "2026-02-11T12:48:24.502503",
+        "id": "84cf5ddf-e97a-4569-83aa-0f9b419a58ec"
+    }
+]
