@@ -7,14 +7,17 @@ app = FastAPI(title="Restaurant Employee Management System")
 
 # CORS
 cors_origins_env = os.getenv("CORS_ORIGINS", "").strip()
-allow_origins = ["http://localhost:5173", "http://localhost:5174"]
 if cors_origins_env:
     allow_origins = [o.strip() for o in cors_origins_env.split(",") if o.strip()]
+    allow_credentials = True
+else:
+    allow_origins = ["*"]
+    allow_credentials = False
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=allow_origins,
-    allow_credentials=True,
+    allow_credentials=allow_credentials,
     allow_methods=["*"],
     allow_headers=["*"],
 )
